@@ -1,7 +1,7 @@
 {
   "name": "wyrm",
   "version": "1.0.9",
-  "repository": "https://github.com/vulk/wyrm",
+  "repository": "https://github.com/sambacha/wyrm",
   "devDependencies": {
     "grunt": "~0.4.1",
     "grunt-contrib-sass": "~0.7.2",
